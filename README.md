@@ -1,4 +1,4 @@
-# Calculator GUI Application
+# Infix to Postfix Calculator GUI Application
 
 This Java application provides a graphical user interface (GUI) for performing mathematical calculations based on a given mathematical expression. The application uses a custom expression tokenizer and supports basic arithmetic operations.
 
